@@ -10,8 +10,6 @@ public class PlayerController : MonoBehaviour
     public Animator animator;
     void FixedUpdate()
     {
-        UpInput = Input.GetAxis("AltVertical");
-        transform.Translate(Vector2.up * speed * Time.fixedDeltaTime * UpInput);
         forwardInput = Input.GetAxis("AltHorizontal");
         transform.Translate(Vector2.right * speed * Time.fixedDeltaTime * forwardInput);
         animator.SetFloat("Speed", UpInput);
