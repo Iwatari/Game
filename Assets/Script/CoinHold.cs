@@ -9,6 +9,7 @@ public class CoinHold : MonoBehaviour
     RaycastHit2D hit;
     public Transform holdPoint;
     public float throwObject = 5;
+    /*boobs*/
     void Start()
     {
         
