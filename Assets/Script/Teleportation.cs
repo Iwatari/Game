@@ -8,7 +8,10 @@ public class Teleportation : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.F))
+        {
 
+        }    
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {

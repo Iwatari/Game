@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - Portal
+  - Teleporter
   layers:
   - Default
   - TransparentFX
