@@ -8,7 +8,7 @@ public class Jump : MonoBehaviour
     public float jumpForce = 5.0f;
 
     public bool isGround;
-    public float rayDistance = 0.6f;
+    public float rayDistance = 2f;
 
     void Awake()
     {
