@@ -20,7 +20,7 @@ public class Door : MonoBehaviour
 
     public void Open()
     {
-        anim.SetBool("Open", true);
+            anim.SetBool("Open", true);
     }
     public void Close()
     {
