@@ -15,23 +15,28 @@ public class Door : MonoBehaviour
 
     void Update()
     {
-        
+
     }
 
     public void Open()
     {
+        {
             anim.SetBool("Open", true);
+
+        }
     }
     public void Close()
     {
-        anim.SetBool("Open", false);
+            anim.SetBool("Open", false);
+
     }
     public void Enable()
     {
-        col.enabled = true;
+            col.enabled = true;
     }
     public void Disable()
     {
         col.enabled = false;
     }
+
 }

@@ -7,6 +7,7 @@ TagManager:
   - Coin
   - Portal
   - Teleporter
+  - Door
   layers:
   - Default
   - TransparentFX

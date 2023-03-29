@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc07c3e18525f144b9ffccb53143f8b3
+guid: ee4f29d9a0179a34fa678cc29351b3e6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -105,112 +105,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Door-Sheet_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 535
-        height: 640
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b75954ce4bb06a94992b0ef9982e61ba
-      internalID: 473714967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Door-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 0
-        width: 535
-        height: 640
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21f7a3db208373a4b8b85493eff09ac0
-      internalID: -956878311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Door-Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 1070
-        y: 0
-        width: 535
-        height: 640
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1e1f8c49d8ec384eac8e151e84cc0ae
-      internalID: 1364183453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Door-Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 1605
-        y: 0
-        width: 535
-        height: 640
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2684cfb52aeff0a41ac21aa26196a476
-      internalID: -390062957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Door-Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 2140
-        y: 0
-        width: 535
-        height: 640
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 449b3a6d1a86e0d42bf79517e94d1d52
-      internalID: 1048162201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -221,12 +116,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Door-Sheet_0: 473714967
-      Door-Sheet_1: -956878311
-      Door-Sheet_2: 1364183453
-      Door-Sheet_3: -390062957
-      Door-Sheet_4: 1048162201
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

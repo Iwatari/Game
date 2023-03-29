@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5065b7ada7b7e6b44ae15895700828c6
+guid: 9898227ab5fd17e4882d7934c546a669
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,112 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: door_open_animation_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 779
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b21ee7cebc8d84cb541768b74f4360
+      internalID: -1744118162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_open_animation_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 779
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab503f3015a6dc48947ba3d39e28fe0
+      internalID: -25232060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_open_animation_2
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 779
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd1d48256422f44aef6b32547dfbc9
+      internalID: -778577112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_open_animation_3
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 779
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab7f3d78253753438a66909085ee689
+      internalID: -914389363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_open_animation_4
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 779
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadd84e365001648b3820697da157da
+      internalID: 1938649181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -116,7 +221,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      door_open_animation_0: -1744118162
+      door_open_animation_1: -25232060
+      door_open_animation_2: -778577112
+      door_open_animation_3: -914389363
+      door_open_animation_4: 1938649181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
